@@ -6,7 +6,7 @@ class Solution:
     Solutions for Leetcode TwoSum variations
     '''
 
-    def two_sum_base(self, nums: List[int], target: int) -> List[int]:
+    def two_sum(self, nums: List[int], target: int) -> List[int]:
         '''
         Base TwoSum problem
         No assumptions about array ordering

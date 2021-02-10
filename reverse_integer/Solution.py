@@ -14,6 +14,10 @@ class Solution:
         Base Reverse Integer problem
         Reverse integer, while assuming an environment bound of +/- INT_32_MAX
 
+        This approach reduces the number and sums the result mathematically.
+        We can achieve the same result by parsing the number to a string
+        and using simple string reversal, though thats likely less efficient.
+
         Difficulty: Easy
         '''
 
