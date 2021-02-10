@@ -26,7 +26,6 @@ class Solution:
                     results[0] = currentIndex
                     results[1] = i
                     break
-                i += 1
 
             currentIndex += 1
 
